@@ -5,7 +5,14 @@
   <li>
     <a href="https://github.com/joshmadakor1/Algorithms-Practice">Active Directory Home Lab</a>
   </li>
+  <li>
+    <a href="https://example.com/aws-static-website-project">AWS Static Website Project</a>
+  </li>
+  <li>
+    <a href="https://example.com/aws-static-website-project">Visualize Data using Amazon QuickSight</a>
+  </li>
 </ul>
+
 <h2>Certifications</h2>
 
 - [AWS Cloud Practitioner](https://www.youtube.com/watch?v=a83ASGn_V_s)
